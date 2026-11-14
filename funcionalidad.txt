@@ -1,0 +1,7 @@
+Mi primera funcionalidad
+Proyecto: Sistema de gestion de productos
+Objetivo:
+Simular el desarrollo de una funcionalidad dentro de una rama independiente de Git.
+Funcionalidad:
+Consultar el inventario de productos. 
+Estado: En desarrolo 
