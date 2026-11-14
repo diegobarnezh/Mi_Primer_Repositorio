@@ -1,0 +1,6 @@
+#Python - Entornos Virtuales
+.venv/
+#Python - Archivos temporales
+_*.pyc
+#variables de entorno
+.env
